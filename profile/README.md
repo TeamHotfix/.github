@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="brand/hotfix-animated-dark.svg">
-    <img alt="hotfix" src="brand/hotfix-animated-light.svg" width="440">
-  </picture>
+  <img alt="hotfix" src="brand/hotfix-banner.svg" width="760">
 </p>
 
-<p align="center">Wildfire intelligence: spotting fires from satellite data, predicting how they spread, and planning safe evacuations.</p>
+<h3 align="center">Wildfire intelligence: spotting fires from satellite data, predicting how they spread, and planning safe evacuations.</h3>
